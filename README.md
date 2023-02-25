@@ -1,38 +1,38 @@
-<img src="index.png">
+
+<img src="[img/banner.png](https://github.com/technicalhayden/python-ftp-file-uploder/blob/3606b9d1c21894a40a6afece2394ce5eb01105bc/index.png)" width="100%" width="600" />
 
 # python-ftp-file-uploder
 
 it is a python file that uploads file from  local envirment to remote envirment
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 <br>
+ <img src="https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000">
 
-##
  
  # installtion<br>
+`git clone https://github.com/technicalhayden/python-ftp-file-uploder.git`<br>
+`cd python-ftp-file-uploder`<br>
+`sudo python ftp.py`<br>
 
-git clone https://github.com/technicalhayden/python-ftp-file-uploder.git
+
+
 <br>
-cd python-ftp-file-uploder<br>
-sudo python ftp.py
-##
-<br>
-# 
+
  # requirements
+`pip install tk`<br>
+`pip install ftputil`<br>
 
-
-<br>
-pip install tk<br>
-
-pip install ftputil
-<br>
-##
  # configaration
 <br>
-open ftp.py file in any editor software
-<br>on line 12 enter your ftp adresss
+
+open `ftp.py` ile in any editor software
+
+<br>
+on line 12 enter your ftp adresss
 <br>
 line 13 enter your ftp userid and passward
 <br>
+##
 <p align="left"> <a href="https://twitter.com/technicalhayden" target="blank"><img src="https://img.shields.io/twitter/follow/technicalhayden?logo=twitter&style=for-the-badge" alt="technicalhayden" /></a> </p>
 🔭 I’m currently working on [Cube Securities](https://cubesecurity.cf/)
 

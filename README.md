@@ -1,5 +1,5 @@
 
-<img src="[img/banner.png](https://github.com/technicalhayden/python-ftp-file-uploder/blob/3606b9d1c21894a40a6afece2394ce5eb01105bc/index.png)" width="100%" width="600" />
+<img src="index.png" width="100%" width="600" />
 
 # python-ftp-file-uploder
 

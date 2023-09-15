@@ -10,7 +10,7 @@ it is a python file that uploads file from  local envirment to remote envirment
 
  
  # installtion<br>
-`git clone https://github.com/mindglitchers/FTP-REMOTE.git`<br>
+`git clone https://github.com/haydenbanz/FTP-REMOTE.git`<br>
 `cd FTP-REMOTE`<br>
 `sudo python ftp.py`<br>
 
